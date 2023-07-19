@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel="tests">
+  <test name="ChromeTest">
+	  <parameter name="browser" value="Chrome"></parameter>
+    <classes>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation6"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation7"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation4"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation5"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation2"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation3"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="EdgeTest">
+	  <parameter name="browser" value="Edge"></parameter>
+    <classes>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation6"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation7"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation4"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation5"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation2"/>
+      <class name="OpenInAppIntentsForCrossBrowserTesting.CrossBrowserImplementation3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

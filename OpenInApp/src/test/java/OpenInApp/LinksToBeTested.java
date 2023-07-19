@@ -26,44 +26,47 @@ public class LinksToBeTested {
 	
 	@Test
 	public void LinksOfOpenInApp() throws InterruptedException, IOException {
-		Capabilities("https://openinapp.openinapp.co/edkud");
+		Capabilities("https://openinapp.co/edkud");
 		Capabilities("https://openinapp.co/77pqc");
 		Capabilities("https://raj-shamani.openinapp.co/vzcf1");
 		Capabilities("https://heylink.oia.bio/heylink");  
-		Capabilities("https://openinapp.co/Adultinsaan");
+//		Capabilities("https://openinapp.co/Adultinsaan");
 		
-	    Capabilities("https://openinapp.co/0osq5"); 
-		Capabilities("https://openinapp.co/ei3qa");
-		Capabilities("https://openinapp.co/8otqz");  Capabilities("https://openinapp.co/wplni");
-		Capabilities("https://openinapp.co/jjkdd"); 
-		Capabilities("https://openinapp.co/4g5u8"); 
-		Capabilities("https://openinapp.co/telegram/PremiumDeals");  Capabilities("https://openinapp.co/7ky8m");
-		Capabilities("https://Post56.oia.bio/ajwgw");  Capabilities("https://openinapp.co/8w0zd");
-		Capabilities("https://openinapp.co/kb6o4");  Capabilities("https://openinapp.co/dn75q");
-		Capabilities("https://openinapp.co/gp1eh");  Capabilities("https://t.openinapp.co/yedhotedagaundhi20");
-		Capabilities("https://ldb.oia.bio/memes");  
-		Capabilities("https://roccohunt.openinapp.co/nonlitighiamopiu");
-		Capabilities("https://openinapp.co/z59hl");  
-		Capabilities("https://openinapp.co/vb3ah"); 
-		Capabilities("https://openinapp.co/Roobai");  Capabilities("https://openinapp.co/cpwy7");
-		Capabilities("https://t.oia.bio/government");  Capabilities("https://openinapp.co/acszu");
-		Capabilities("https://openinapp.co/9z9fn");  Capabilities("https://openinapp.co/ux4l6");
-//		Capabilities("https://openinapp.co/yuf09");  Arti
-//		Capabilities("https://openinapp.co/x4xd9"); Karan
-		Capabilities("https://openinapp.co/560ad");  Capabilities("https://telegram.openinapp.co/betadetective-1");
-		Capabilities("https://openinapp.co/30tcj");  Capabilities("https://openinapp.co/oid1u");
-		Capabilities("https://openinapp.co/56az0");  Capabilities("https://t.oia.bio/cinedreams-1-76866");
-		Capabilities("https://YouTube.openinapp.co/DekhDilYeHumara");  Capabilities("https://openinapp.co/d93r9");
-		Capabilities("https://openinapp.co/dc9cf");  Capabilities("https://google.oia.bio/search-45");
-		Capabilities("https://openinapp.co/csg7n");  Capabilities("https://oia.bio/fc8fe");
-//		Capabilities("https://openinapp.co/kh6zq"); NR
-//		Capabilities("https://openinapp.co/8u2qy");
-		Capabilities("https://telegram.openinapp.co/Magixdeals");  Capabilities("https://openinapp.co/fft3v");
-		Capabilities("https://Post55.oia.bio/ugkp4");  Capabilities("https://openinapp.co/2k0ay");
-		Capabilities("https://openinapp.co/wb3b3");  
-		Capabilities("https://openinapp.co/o5sno"); 
-//		Capabilities("https://openinapp.co/uhlr2");  //Lucky
-		Capabilities("https://oia.bio/Lveffdiamond");
+	    Capabilities("https://openinapp.co/cgap0"); 
+		Capabilities("https://openinapp.co/ebcwc");
+		Capabilities("https://openinapp.co/gwojs");  Capabilities("https://openinapp.co/8w0zd");
+		Capabilities("https://openinapp.co/7xakq"); 
+		Capabilities("https://roccohunt.openinapp.co/nonlitighiamopiu"); 
+		Capabilities("https://t.oia.bio/government");  Capabilities("https://openinapp.co/ojgn8");
+		Capabilities("https://openinapp.co/2k0ay");  Capabilities("https://t.openinapp.co/Ajeesh_Kumar_tips");
+		Capabilities("https://openinapp.co/xq13d");  Capabilities("https://openinapp.co/vvage");
+		Capabilities("https://openinapp.co/Roobai");  Capabilities("https://openinapp.co/e5f48");
+		Capabilities("https://Post14.oia.bio/66v1v");  
+		Capabilities("https://openinapp.co/56az0");
+		Capabilities("https://openinapp.co/vb3ah");  
+		Capabilities("https://openinapp.co/30tcj");  
+		Capabilities("https://openinapp.co/sroxh"); 
+		Capabilities("https://openinapp.co/og531");  Capabilities("https://openinapp.co/4g59a");
+		Capabilities("https://TamilTech.openinapp.co/vivoT2");  Capabilities("https://openinapp.co/8jb1o");
+		Capabilities("https://openinapp.co/9ywqo");  
+		Capabilities("https://Post56.oia.bio/ajwgw"); 
+		Capabilities("https://openinapp.co/n4ga1");  Capabilities("https://Post57.oia.bio/desiw");
+//		Capabilities("https://openinapp.co/v66mq");  Saniya
+		Capabilities("https://openinapp.co/dwdpj");
+		Capabilities("https://openinapp.co/LSGIPL2023");  Capabilities("https://google.oia.bio/search-45");
+		Capabilities("https://telegram.openinapp.co/betadetective-1");  
+		Capabilities("https://TrakinTech.openinapp.co/vivoT2");
+		Capabilities("https://openinapp.co/mh5f1");  Capabilities("https://openinapp.co/x3068");
+		Capabilities("https://openinapp.co/telegram/PremiumDeals");  Capabilities("https://Telegram.openinapp.co/telegram/technical-sapien");
+		Capabilities("https://openinapp.co/dh7ws"); 
+		Capabilities("https://ghulam35.openinapp.co/59laq");
+		Capabilities("https://openinapp.co/l0amz");  Capabilities("https://openinapp.co/3xg80");
+		Capabilities("https://oia.bio/fc8fe");  Capabilities("https://t.openinapp.co/yedhotedagaundhi20");
+		Capabilities("https://openinapp.co/2l6k9");  
+		Capabilities("https://openinapp.co/lnzb5"); 
+		Capabilities("https://openinapp.co/lpfuc");  
+		Capabilities("https://openinapp.co/00v72"); 
+		Capabilities("https://openinapp.co/p0m1p");
 	}
 	
 	public void Capabilities(String openinappLink ) throws InterruptedException, IOException {
@@ -104,7 +107,7 @@ public class LinksToBeTested {
 		Thread.sleep(3000);
 		TakesScreenshot ts= (TakesScreenshot)driver;
 		File src = ts.getScreenshotAs(OutputType.FILE);
-		File trg= new File("./openinappLinkScreenshots/links/"+timestamp()+".jpeg");
+		File trg= new File("./openinappLinkScreenshots/links"+timestampDate()+"/"+timestampTime()+".jpeg");
 		FileUtils.copyFile(src, trg);
 		Thread.sleep(5000);
 		System.out.println(openinappLink+"   =======>   "+s);
@@ -113,8 +116,12 @@ public class LinksToBeTested {
 		
 	}
 	
-	public static String timestamp() {
-		return new SimpleDateFormat("yyyy-MM-dd HH-mm-ss").format(new Date());
+	public static String timestampTime() {
+		return new SimpleDateFormat("HH-mm-ss").format(new Date());
+	}
+	
+	public static String timestampDate() {
+		return new SimpleDateFormat("yyyy-MM-dd").format(new Date());
 	}
 
 }

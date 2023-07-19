@@ -1,0 +1,39 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+Twitch
+
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+
+
+openinapp.co/u7o7b
+Current app package: com.instagram.android
+05-06-2023 13-04-34-893
+Redirected app package name: tv.twitch.android.app
+05-06-2023 13-04-38-287
+894 ms ==> Redirection Timing
+
+
+
+
+Twitch.openinapp.co/fu4b3
+Current app package: com.instagram.android
+05-06-2023 13-05-29-955
+Redirected app package name: tv.twitch.android.app
+05-06-2023 13-05-32-858
+403 ms ==> Redirection Timing
+
+
+PASSED: InstagramValidate
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
+
